@@ -13,5 +13,6 @@ module.exports = {
     project: ['./tsconfig.json']
   },
   plugins: ['react'],
+  // plugins: ['react', '@/typescript-eslint'],
   rules: {}
 }
